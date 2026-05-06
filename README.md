@@ -13,14 +13,17 @@
 | Lyric Writing Date | May 07, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/chole-gele/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Request Licensing for Chole Gele](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Apply for Music License: Chole Gele](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> অচেনা আঁধারে খুঁজি আমি তোমার ওই চোখ
+> অবুঝ এ বুকে জমে আছে শুধু যে শোক
+> বিষণ্ণ মেঘেরা ডাকে আজ আমার এই শহরে
+> ফিরে এসো তুমি আমার এই শূন্যতার প্রহরে
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
