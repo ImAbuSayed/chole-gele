@@ -10,10 +10,10 @@
 |-------|---------|
 | Title | Chole Gele |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 07, 2026 |
+| Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/chole-gele/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Apply for Music License: Chole Gele](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Official Usage Rights for Chole Gele](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
