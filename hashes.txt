@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Chole Gele
+
+This log tracks the cryptographic history and versioning for the song **Chole Gele** (chole-gele).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T17:11:07.841505 | `v1` | `545cb7b89425f74223ff68823bc005669f7a4c69c4da1641e7f653331cfea95f` | `3a3a6967f9da1a2d056398bc1b9824c24e26d2dc9f3d0a03a4a9f62dc6b3d4a9` | `2026-05-08_chole-gele-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
